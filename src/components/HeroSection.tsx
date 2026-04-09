@@ -31,7 +31,7 @@ export default function HeroSection() {
             className="inline-flex items-center gap-2 mt-6 bg-secondary text-white px-6 py-3 font-bold hover:translate-x-1 transition-transform rounded-lg body-inter text-sm"
           >
             <span className="material-symbols-outlined text-lg">open_in_new</span>
-            Read the Full Thesis — TalTech Digital Library
+            Read the Full Thesis – TalTech Digital Library
           </a>
         </div>
         <div className="lg:col-span-5 relative">
@@ -46,7 +46,7 @@ export default function HeroSection() {
               <p className="headlines-newsreader text-xl font-bold text-primary">
                 &ldquo;It is critically important to be open to new challenges and opportunities, even if it means stepping out of your comfort zone.&rdquo;
               </p>
-              <p className="body-inter text-sm text-on-surface-variant mt-2">— CFO, thesis interview</p>
+              <p className="body-inter text-sm text-on-surface-variant mt-2">– CFO, thesis interview</p>
             </div>
           </div>
           <div className="absolute -top-12 -right-12 w-48 h-48 bg-secondary/10 rounded-full blur-3xl"></div>

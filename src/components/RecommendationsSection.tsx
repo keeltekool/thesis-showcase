@@ -1,9 +1,9 @@
 const recommendations = [
-  "Start with data foundations, not tools. Invest in data quality, cleansing, and integration before purchasing analytics software. The accounting system is your primary data source — if it's not solid, nothing built on top will be trustworthy.",
+  "Start with data foundations, not tools. Invest in data quality, cleansing, and integration before purchasing analytics software. The accounting system is your primary data source – if it's not solid, nothing built on top will be trustworthy.",
   "Begin with quick wins in descriptive analytics. Automated reporting, self-service dashboards, and a single source of truth deliver the most immediate value. Build organizational confidence before moving to predictive models.",
-  "Appoint a finance-side analytics champion. Analytics projects fail when owned entirely by IT. The finance team has the best understanding of which data matters and how it connects to business decisions — they must lead.",
+  "Appoint a finance-side analytics champion. Analytics projects fail when owned entirely by IT. The finance team has the best understanding of which data matters and how it connects to business decisions – they must lead.",
   "Evaluate predictive analytics through specific, high-ROI use cases. Don't build a universal forecasting model. Start with targeted problems: accounts receivable prediction, cash flow forecasting, customer payment probability.",
-  "Stay current and experiment. The technology landscape is moving fast — tools that required data scientists two years ago now have natural language interfaces. Companies that adopt early build compounding advantages.",
+  "Stay current and experiment. The technology landscape is moving fast – tools that required data scientists two years ago now have natural language interfaces. Companies that adopt early build compounding advantages.",
 ];
 
 export default function RecommendationsSection() {

@@ -22,7 +22,7 @@ const comparisons = [
   },
   {
     finding: "Self-service BI will become the standard. Business users will do their own analytics.",
-    reality: "Tools are ready, but adoption remains stubbornly low. Only 25% of employees actively use BI tools — barely changed in seven years.",
+    reality: "Tools are ready, but adoption remains stubbornly low. Only 25% of employees actively use BI tools – barely changed in seven years.",
     verdict: "Partial",
     source: "BARC BI & Analytics Survey 26",
     topic: "Self-Service Analytics",
@@ -36,20 +36,20 @@ const comparisons = [
   },
   {
     finding: "Data fragmentation and quality issues are the biggest barrier to analytics adoption.",
-    reality: "BARC's 2026 Trend Monitor: \"Data Quality Beats AI Hype\" — data quality management reclaimed #1 position. 64% cite it as their top challenge.",
+    reality: "BARC's 2026 Trend Monitor: \"Data Quality Beats AI Hype\" – data quality management reclaimed #1 position. 64% cite it as their top challenge.",
     verdict: "Confirmed",
     source: "BARC Trend Monitor 2026; Precisely Data Integrity 2026",
     topic: "Data Quality",
   },
   {
     finding: "Lack of analytical skills is a critical barrier. Companies need data literacy at all levels.",
-    reality: "Gap has worsened — 87% of CFOs say AI will be critical, yet three-quarters of organizations lack the skills. GenAI is partially bridging the gap.",
+    reality: "Gap has worsened – 87% of CFOs say AI will be critical, yet three-quarters of organizations lack the skills. GenAI is partially bridging the gap.",
     verdict: "Confirmed",
     source: "Deloitte Q4 2025 CFO Signals; PwC AI Jobs Barometer 2025",
     topic: "Skills Gap",
   },
   {
-    finding: "ML projects cost at least €50,000 — prohibitive for Estonian-sized companies.",
+    finding: "ML projects cost at least €50,000 – prohibitive for Estonian-sized companies.",
     reality: "Costs dropped dramatically. No-code ML platforms offer predictive analytics from hundreds/month. GenAI tools do ad-hoc analysis for $20/month.",
     verdict: "Outdated",
     source: "Fortune Business Insights No-Code AI Market 2025",
@@ -57,7 +57,7 @@ const comparisons = [
   },
   {
     finding: "CFOs are the critical drivers of analytics projects. They bridge business needs and technology.",
-    reality: "Amplified. 87% of CFOs predict AI extremely important for 2026. Dell CFO deployed AI agents for reconciliations — 11,000 headcount reduction.",
+    reality: "Amplified. 87% of CFOs predict AI extremely important for 2026. Dell CFO deployed AI agents for reconciliations – 11,000 headcount reduction.",
     verdict: "Confirmed",
     source: "Deloitte Q4 2025 CFO Signals; Fortune, March 2026",
     topic: "CFO as Champion",

@@ -6,7 +6,7 @@ export default function MaturitySection() {
           <div>
             <h2 className="headlines-newsreader text-4xl mb-8 text-primary">Evolution of Analytics Maturity</h2>
             <p className="body-inter text-lg text-on-surface-variant leading-relaxed mb-8">
-              Davenport &amp; Harris (2007) classify business analytics into four progressively sophisticated levels. In the FP&A context, most organizations remain anchored at descriptive analytics — standard dashboards and backward-looking reports. The journey toward predictive and prescriptive analytics represents not just a technology upgrade, but a fundamental shift in how finance teams create value.
+              Davenport &amp; Harris (2007) classify business analytics into four progressively sophisticated levels. In the FP&A context, most organizations remain anchored at descriptive analytics – standard dashboards and backward-looking reports. The journey toward predictive and prescriptive analytics represents not just a technology upgrade, but a fundamental shift in how finance teams create value.
             </p>
             <div className="flex flex-col gap-6">
               <div className="p-6 bg-white border-l-4 border-tertiary-fixed-dim">
