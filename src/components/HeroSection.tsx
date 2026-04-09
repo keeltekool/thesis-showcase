@@ -6,12 +6,11 @@ export default function HeroSection() {
           <div className="inline-block px-4 py-1 mb-8 border-l-4 border-secondary bg-surface-container-low">
             <span className="text-primary font-bold tracking-widest text-sm uppercase">Tallinn University of Technology</span>
           </div>
-          <h1 className="headlines-newsreader text-5xl md:text-7xl lg:text-8xl leading-[1.05] text-primary mb-8 font-extrabold tracking-tight">
-            Business Analytics <br /> in FP&A: <br />
-            <span className="text-secondary italic">Challenges &amp; Opportunities</span>
+          <h1 className="headlines-newsreader text-4xl md:text-5xl lg:text-6xl leading-[1.1] text-primary mb-6 font-bold tracking-tight">
+            Business Analytics Implementation in Financial Planning &amp; Analysis: <span className="text-secondary italic">Challenges &amp; Opportunities</span>
           </h1>
-          <p className="body-inter text-on-surface-variant text-lg max-w-xl mb-8">
-            A qualitative study of 13 Estonian finance leaders — and how the predictions held up two years later.
+          <p className="body-inter text-on-surface-variant text-base max-w-xl mb-6">
+            A qualitative study on the current state, key challenges, and future perspectives of business analytics adoption in FP&amp;A activities of Estonian technology sector companies.
           </p>
           <div className="flex items-center gap-6 mt-12">
             <div className="h-16 w-16 bg-primary-container rounded-full flex items-center justify-center text-white font-headline text-2xl">EV</div>
