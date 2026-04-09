@@ -30,8 +30,9 @@ export default function MethodologySection() {
             </div>
             <div className="p-10 bg-surface-container-highest rounded-xl flex items-center justify-center">
               <div className="text-center">
-                <span className="text-primary text-6xl font-black">12,323</span>
-                <p className="text-outline text-xs font-bold uppercase mt-2">Words of Academic Research</p>
+                <span className="text-primary text-6xl font-black">4</span>
+                <p className="text-outline text-xs font-bold uppercase mt-2">Thematic Blocks Identified</p>
+                <p className="text-outline text-[10px] mt-1">Braun &amp; Clarke thematic analysis</p>
               </div>
             </div>
           </div>
