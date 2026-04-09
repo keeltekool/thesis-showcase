@@ -79,7 +79,7 @@ function VerdictBadge({ verdict }: { verdict: string }) {
 
 export default function ComparisonSection() {
   return (
-    <section id="comparison" className="py-32 bg-white">
+    <section id="comparison" className="py-32 bg-surface-container-low">
       <div className="max-w-screen-xl mx-auto px-8">
         <h2 className="headlines-newsreader text-4xl mb-4 text-center text-primary">Strategic Evolution: 2024 → 2026</h2>
         <p className="body-inter text-center text-on-surface-variant mb-16 max-w-2xl mx-auto">
@@ -87,8 +87,8 @@ export default function ComparisonSection() {
         </p>
         <div className="space-y-6">
           {comparisons.map((item, i) => (
-            <div key={i} className="grid grid-cols-1 md:grid-cols-2 gap-0 border border-surface-container-high rounded-2xl overflow-hidden shadow-2xl shadow-primary/5">
-              <div className="p-10 border-b md:border-b-0 md:border-r border-surface-container-high">
+            <div key={i} className="grid grid-cols-1 md:grid-cols-2 gap-0 border border-outline-variant rounded-2xl overflow-hidden shadow-lg shadow-primary/10 bg-white">
+              <div className="p-10 border-b md:border-b-0 md:border-r border-outline-variant">
                 <div className="flex justify-between items-start mb-6 gap-4">
                   <span className="text-sm font-bold text-outline uppercase tracking-widest">{item.topic}</span>
                   <VerdictBadge verdict={item.verdict} />

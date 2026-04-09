@@ -30,8 +30,8 @@ export default function MethodologySection() {
             </div>
             <div className="p-10 bg-surface-container-highest rounded-xl flex items-center justify-center">
               <div className="text-center">
-                <span className="text-primary text-6xl font-black">200+</span>
-                <p className="text-outline text-xs font-bold uppercase mt-2">Minutes of Qualitative Insight</p>
+                <span className="text-primary text-6xl font-black">12,323</span>
+                <p className="text-outline text-xs font-bold uppercase mt-2">Words of Academic Research</p>
               </div>
             </div>
           </div>
