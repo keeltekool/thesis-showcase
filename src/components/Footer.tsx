@@ -8,10 +8,10 @@ export default function Footer() {
             This thesis contributes to the School of Business and Governance&apos;s research into digital transformation and business analytics in corporate finance.
           </p>
           <div className="flex gap-4">
-            <button className="bg-secondary hover:translate-x-1 transition-transform px-6 py-3 font-bold flex items-center gap-2 rounded-lg">
-              <span className="material-symbols-outlined">download</span>
-              Full PDF Thesis
-            </button>
+            <a href="https://digikogu.taltech.ee/et/item/75f247de-a3ee-43c5-b3bc-7ba3c965854d" target="_blank" rel="noopener noreferrer" className="bg-secondary hover:translate-x-1 transition-transform px-6 py-3 font-bold flex items-center gap-2 rounded-lg">
+              <span className="material-symbols-outlined">open_in_new</span>
+              Full Thesis — TalTech Library
+            </a>
           </div>
         </div>
         <div className="grid grid-cols-2 gap-8">

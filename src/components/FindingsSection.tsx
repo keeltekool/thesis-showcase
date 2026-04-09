@@ -20,8 +20,8 @@ export default function FindingsSection() {
               <li className="flex items-start gap-3"><span className="w-2 h-2 bg-secondary mt-2 shrink-0"></span><span><strong>Leadership must champion data culture</strong> — Technology alone achieves nothing. Data-driven decision-making requires visible executive commitment.</span></li>
             </ul>
             <blockquote className="headlines-newsreader text-xl text-primary leading-snug italic mt-8 border-l-4 border-primary/20 pl-6">
-              &ldquo;Without the right data, we can&apos;t do anything meaningful. That is the most important part.&rdquo;
-              <span className="body-inter text-sm text-on-surface-variant block mt-2 not-italic">— CFO</span>
+              &ldquo;The solution itself gives you nothing except the opportunity to build a culture around it. I&apos;ve seen companies where the solution exists, but no culture forms around it.&rdquo;
+              <span className="body-inter text-sm text-on-surface-variant block mt-2 not-italic">— BA Consultant</span>
             </blockquote>
           </div>
 
@@ -33,8 +33,8 @@ export default function FindingsSection() {
                 <p className="font-bold text-secondary mb-2">Budgeting — Transformed</p>
                 <p className="text-sm text-white/70 mb-3">BI enabled the shift from fixed annual budgets to rolling forecasts. Centralized data warehouses eliminated spreadsheet chaos.</p>
                 <blockquote className="text-sm text-white/90 italic border-l-2 border-secondary/40 pl-3">
-                  &ldquo;We don&apos;t do budgets for a fixed 12 months anymore. We constantly update our forecasts.&rdquo;
-                  <span className="text-white/50 block mt-1 not-italic text-xs">— CFO</span>
+                  &ldquo;Many of our clients use rolling budgets, checking each month how the budget aligns with reality and making decisions based on that.&rdquo;
+                  <span className="text-white/50 block mt-1 not-italic text-xs">— BA Consultant</span>
                 </blockquote>
               </div>
               <div className="pb-6 border-b border-white/10">
@@ -97,19 +97,19 @@ export default function FindingsSection() {
                 </blockquote>
               </div>
               <div>
-                <p className="text-secondary font-black text-xl mb-3">Tool Consolidation</p>
-                <p className="body-inter text-sm text-on-surface-variant leading-relaxed mb-3">Moving from fragmented point solutions toward integrated platforms.</p>
+                <p className="text-secondary font-black text-xl mb-3">Step-by-Step Adoption</p>
+                <p className="body-inter text-sm text-on-surface-variant leading-relaxed mb-3">Start with quick wins, prove value, then expand. Avoid ambitious projects that try to do everything at once.</p>
                 <blockquote className="text-sm text-primary italic border-l-2 border-secondary/30 pl-3 headlines-newsreader">
-                  &ldquo;The dream would be everything on one platform. But right now we still can&apos;t see ourselves dropping Power BI.&rdquo;
-                  <span className="body-inter text-xs text-on-surface-variant block mt-1 not-italic">— CFO</span>
+                  &ldquo;It&apos;s better to take small steps. Even adopting a new tool is actually a small step.&rdquo;
+                  <span className="body-inter text-xs text-on-surface-variant block mt-1 not-italic">— BA Consultant</span>
                 </blockquote>
               </div>
               <div>
-                <p className="text-secondary font-black text-xl mb-3">Self-Service as Standard</p>
-                <p className="body-inter text-sm text-on-surface-variant leading-relaxed mb-3">Business users accessing analytics independently, freeing finance teams for higher-value work.</p>
+                <p className="text-secondary font-black text-xl mb-3">Business-Side Ownership</p>
+                <p className="body-inter text-sm text-on-surface-variant leading-relaxed mb-3">Analytics projects fail when owned by IT alone. Finance must lead — they understand the data&apos;s business context best.</p>
                 <blockquote className="text-sm text-primary italic border-l-2 border-secondary/30 pl-3 headlines-newsreader">
-                  &ldquo;Questions from executives asking &lsquo;show me this number&rsquo; have disappeared. Everyone can now look at the numbers themselves in real-time.&rdquo;
-                  <span className="body-inter text-xs text-on-surface-variant block mt-1 not-italic">— CFO</span>
+                  &ldquo;Looking at our projects, well over half are led by the CFO. They have a good overview of all processes — sales, production — at least from a financial perspective.&rdquo;
+                  <span className="body-inter text-xs text-on-surface-variant block mt-1 not-italic">— BA Consultant</span>
                 </blockquote>
               </div>
             </div>

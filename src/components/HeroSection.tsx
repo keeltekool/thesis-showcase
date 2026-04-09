@@ -20,11 +20,20 @@ export default function HeroSection() {
               <p className="text-2xl text-primary headlines-newsreader italic">Egert Väinaste</p>
             </div>
           </div>
-          <div className="flex gap-8 mt-8 body-inter text-sm text-on-surface-variant">
+          <div className="flex flex-wrap gap-8 mt-8 body-inter text-sm text-on-surface-variant">
             <span>Master&apos;s Thesis, 2024</span>
             <span>12,323 words</span>
             <span>Supervisor: Mari Avarmaa, PhD</span>
           </div>
+          <a
+            href="https://digikogu.taltech.ee/et/item/75f247de-a3ee-43c5-b3bc-7ba3c965854d"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 mt-6 bg-secondary text-white px-6 py-3 font-bold hover:translate-x-1 transition-transform rounded-lg body-inter text-sm"
+          >
+            <span className="material-symbols-outlined text-lg">open_in_new</span>
+            Read the Full Thesis — TalTech Digital Library
+          </a>
         </div>
         <div className="lg:col-span-5 relative">
           <div className="aspect-[4/5] bg-surface-container-high relative overflow-hidden group">
